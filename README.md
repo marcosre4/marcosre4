@@ -2,10 +2,10 @@
 
 
 - 🔭 I’m currently working on Business Intelligence Analyst :blush:
-- 🌱 I’m currently learning Azure Cloud Computing, Tableu and Python :computer:
-- 👀 I'm interesting on SQL, Python, Json and JavaScript:heart:
+- 🌱 I’m currently learning SQL, Tableu and Python :computer:
+- 👀 I'm interesting on SQL, Python and DAX:heart:
 - :v: I’m looking to collaborate on Data modeling and queries with SQL, also creating programs envolving Python😎
 - 📫 How to reach me: marcosvinicius_rocha@hotmail.com
 
 
-  🎯 MOST USED LANGUAGES: DAX, M AND PYTHON
+  🎯 MOST USED LANGUAGES: SQL,DAX, M AND PYTHON
