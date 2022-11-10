@@ -8,4 +8,4 @@
 - 📫 How to reach me: marcosvinicius_rocha@hotmail.com
 
 
-  🎯 MOST USED LANGUAGES: SQL, PYTHON AND JSON
+  🎯 MOST USED LANGUAGES: DAX, M AND PYTHON
